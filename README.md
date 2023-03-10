@@ -1,3 +1,4 @@
+<a name="readme-top"></a>
 # Mini Processor
 
 The program is an implementation of a bit interpreter similar the the one of a processor. It is capable of decoding and executing simple instructions such as addition, substraction, multiplication, and division.
