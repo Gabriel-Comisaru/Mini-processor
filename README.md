@@ -19,12 +19,6 @@ For the first task we will be reading from standard input a number of type unsig
 
 For the second task we will continue the first and we'll read the operands and execute them.
 
-### Built with
 
-* [![Next][C]]
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
-
-
-[C]: https://www.google.com/url?sa=i&url=https%3A%2F%2Fcommons.wikimedia.org%2Fwiki%2FFile%3AC_Programming_Language.svg&psig=AOvVaw3OdkxfUqyO9kBmmr9UKu7x&ust=1678573233801000&source=images&cd=vfe&ved=0CBAQjRxqFwoTCNCj8Nuy0v0CFQAAAAAdAAAAABAE
-[C-url]
